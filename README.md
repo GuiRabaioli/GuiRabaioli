@@ -42,7 +42,7 @@
   <a href="http://linkedin.com/in/guilherme-holanda-rabaioli/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="+55 (92) 98156-9368" target="_blank">
+  <a href="https://wa.me/qr/RM4LQO7ZJJ74M1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 </div>
