@@ -1,5 +1,7 @@
 
-<h2 align="center">Hi 👋! My name is Guilherme Rabaioli and I'm a Software Engineer, from Brazil</h2>
+<h2 align="center">Hi 👋! My name is Guilherme Rabaioli and I'm a Software Engineer, from Brazil. I'm 22 years old. I am a passionate Software Engineering student with experience in web development, problem solving and fast learning.
+I work with different technologies and languages ​​such as:
+JavaScript, CSS , Python, SQL , HTML, Dart, Flutter, and always learning new ones.</h2>
 
 ###
 
